@@ -1,0 +1,22 @@
+    input {
+        margin: 10px;
+    }
+    
+    #submit {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    #sort {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        display: none;
+    }
+    
+    #display_name {
+        border: 10px solid greenyellow;
+        padding: 10px;
+        background-color: indigo;
+        border-radius: 10px;
+        width: 50%;
+    }
